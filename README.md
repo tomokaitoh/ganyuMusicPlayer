@@ -10,3 +10,6 @@
 3. 用gcc编译器编译时需要链接vfw32库:
 
    `gcc ganyuMusicPlayer.c -o ganyuMusicPlayer.exe -lvfw32`
+
+# 运行说明
+1. 如果安装了Windows Terminal，程序运行在Windows Terminal中会出现颜色异常。可以在设置中将默认终端程序改为"Windows控制台主机",重新打开cmd，就是经典的Windows控制台了。
