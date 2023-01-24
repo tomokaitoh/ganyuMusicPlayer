@@ -9,4 +9,4 @@
    工具 -> 自定义 -> 命令，在"菜单栏"项选择"文件"，点击"添加命令"，在"类别栏"中选择"文件"，在"命令栏"中找到"高级保存选项"，单击"确定"保存。在Viusal Studio主界面工具栏的"文件"中即可找到高级保存选项。
 3. 用gcc编译器编译时需要链接vfw32库:
 
-   `gcc ganyuMusicPlayer.c -o main.exe -lvfw32`
+   `gcc ganyuMusicPlayer.c -o ganyuMusicPlayer.exe -lvfw32`
